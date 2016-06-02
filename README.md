@@ -1,3 +1,3 @@
 # hello-world
-First GitHub repository
+First GitHub repository.
 Time is Money
